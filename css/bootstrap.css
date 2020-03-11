@@ -1366,7 +1366,7 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding: 50px 15px; 
+  padding: 50px 15px;
 }
 
 .menu-nav	{
@@ -6295,7 +6295,7 @@ html body {
   background: url('../images/MAPC-header2018.png') repeat fixed;
   position: relative;
   /*	background: url('../images/MAPC-header.png') center center no-repeat;
-	position: relative; 
+	position: relative;
 	min-height: 183px;
     height: 400px;
     max-height: 400px;
@@ -6587,7 +6587,7 @@ a.orange:focus {
 }
 
 .quotethree {
-  background: url('http://2018.mapc.org/images/MAPCannualreport14-color.jpg') no-repeat fixed;
+  background: url('https://mapc.github.io/2018.mapc.org/images/MAPCannualreport14-color.jpg') no-repeat fixed;
   position: relative;
   height: auto;
   margin: 0 auto;
